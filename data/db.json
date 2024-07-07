@@ -1,0 +1,104 @@
+{
+    "posts": 
+    [
+        {
+            "id": 6,
+            "url": "JourneysAndJazzTheFruitsOfTheGods",
+            "title": "My Website",
+            "icon": "https://github.com/RemiliaRosalia/website/blob/gh-pages/img/logo.1592727d.jpg?raw=true",
+            "desc": "This site was all me!",
+            "tags":
+            [
+                "HTML",
+                "JavaScript",
+                "CSS",
+                "GitHub",
+                "Programming"
+            ]
+        },
+        {
+            "id": 5,
+            "url": "JourneysAndJazzTheFruitsOfTheGods",
+            "title": "Gift of Pain",
+            "icon": "https://github.com/RemiliaRosalia/website/blob/gh-pages/img/GiftofPain.png?raw=true",
+            "desc": "This ex-wrestler Santa has had enough!",
+            "tags":
+            [
+                "Game",
+                "Videogame",
+                "Blender",
+                "3D",
+                "Unity",
+                "Programming",
+                "C#",
+                "Animating",
+                "Rigging",
+                "Texturing"
+            ]
+        },
+        {
+            "id": 4, 
+            "url": "JourneysAndJazzTheFruitsOfTheGods",
+            "title": "Journeys and Jazz: The Fruits of the Gods",
+            "icon": "https://img.itch.zone/aW1nLzEyNTY5MjUzLnBuZw==/315x250%23c/4ev6mR.png",
+            "desc": "The coolest RPG Maker game ever!",
+            "tags":
+            [
+                "Game",
+                "Videogame",
+                "Gamedesign",
+                "JavaScript",
+                "Programming"
+            ]
+        },
+        {
+            "id": 3, 
+            "url": "JourneysAndJazzTheFruitsOfTheGods",
+            "title": "Maya MASH & nCloth Independent Study",
+            "icon": "https://img.itch.zone/aW1nLzEyNTY5MjUzLnBuZw==/315x250%23c/4ev6mR.png",
+            "desc": "A collection of projects",
+            "tags":
+            [
+                "3D",
+                "Maya",
+                "MASH",
+                "nCloth",
+                "Simulation"
+            ]
+        },
+
+        {
+            "id": 2, 
+            "url": "JourneysAndJazzTheFruitsOfTheGods",
+            "title": "Nerg 3D Model",
+            "icon": "https://github.com/RemiliaRosalia/website/blob/gh-pages/img/Nerg.jpg?raw=true",
+            "desc": "Meet this little guy!",
+            "tags":
+            [
+                "3D",
+                "Maya",
+                "Creature",
+                "Organic",
+                "Texturing",
+                "Rigging",
+                "Animating"
+            ]
+        },
+        {
+            "id": 1, 
+            "url": "JourneysAndJazzTheFruitsOfTheGods",
+            "title": "Royal Flush",
+            "icon": "https://github.com/RemiliaRosalia/website/blob/gh-pages/img/RoyalFlush.png?raw=true",
+            "desc": "The Gambling RPG",
+            "tags":
+            [
+                "Game",
+                "Videogame",
+                "Gamedesign",
+                "Unity",
+                "C#",
+                "Programming"
+            ]
+        }
+    ]
+}
