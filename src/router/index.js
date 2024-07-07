@@ -1,7 +1,7 @@
 import { createRouter, createWebHistory } from 'vue-router'
 import HomeView from '../views/HomeView.vue'
 import ProjectView from '../views/ProjectView.vue'
-import JNJFotG from '../views/JNJFotG.vue'
+import JNJFotG from '../projects/JNJFotG.vue'
 const routes = [
   {
     path: '/',
