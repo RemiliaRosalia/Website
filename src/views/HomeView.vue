@@ -1,7 +1,7 @@
 <template>
 
   <div class="home">
-    <div v-if="errorFeat"> {{ errorFeat }} </div>
+    <!--div v-if="errorFeat"> {{ errorFeat }} </div-->
     <div class="featured" v-if="postFeat">
       <img src='../assets/JNJFotG.png' width="33%" class="featuredImg">
       <div class="featuredText">
@@ -15,11 +15,11 @@
     </div>
 
     <div>
-      <div v-if ="error"> {{ error }}</div>
+      <!--div v-if ="error"> {{ error }}</div-->
       <div v-if="posts.length">
         <HomePostList :posts="posts"/>
       </div>
-      <div v-else>Loading...</div>
+      <!--div v-else>Loading...</div-->
     </div>
 
   </div>
@@ -33,6 +33,7 @@
   //automatically knows its a js file
   import getPosts from '../composables/getPosts'
   import getPost from '../composables/getPost'
+  import postData from '../assets/db.json'
 
 
 export default 
@@ -43,12 +44,15 @@ export default
   setup() 
     {
       //runs first
-      const{ postFeat, errorFeat, loadFeat} = getPost(1);
-      loadFeat()
-      const { posts, error, load} = getPosts()
-      load()
+      // const{ postFeat, errorFeat, loadFeat} = getPost(1);
+      // loadFeat()
+      // const { posts, error, load} = getPosts()
+      // load()
 
-      return {posts, error, postFeat, errorFeat}
+      // return {posts, error, postFeat, errorFeat}
+      const posts = postData.posts
+      const postFeat = posts[2]
+      return{posts, postFeat}
     },
 }
 </script>

@@ -36,8 +36,12 @@ export default
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   color: #2c3e50;
-}
 
+}
+h1
+{
+  text-align: center;
+}
 .header
 {
   text-align: center;
@@ -53,12 +57,14 @@ nav
 {
   padding-top: 0px;
   padding-bottom: 10px;
+
 }
 .navLinks
 {
   background-color: #BCBCBC;
   padding: 5px;
   width: 100%;
+
 }
 
 .logo
@@ -81,5 +87,35 @@ body
 }
 nav a.router-link-exact-active {
   color: #42b983;
+}
+.projectPage
+{
+  margin-left: 10%;
+  margin-right: 10%;
+  background-color: antiquewhite;
+}
+.projectPage h1
+{
+  margin-bottom:0%;
+}
+.projectPage p
+{
+  margin-left: 5%;
+  margin-right: 5%;
+}
+.projectPage h2
+{
+  margin-left: 10%;
+  margin-top:0%;
+  font-size:large;
+}
+h5
+{
+  margin-top: 0%;
+}
+.projectIMG
+{
+  text-align: center;
+  
 }
 </style>

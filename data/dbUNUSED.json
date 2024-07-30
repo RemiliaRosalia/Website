@@ -1,0 +1,140 @@
+{
+    "posts": 
+    [
+        {
+            "id": 8,
+            "url": "NibbleKnights",
+            "title": "Nibble Knights",
+            "icon": "https://github.com/RemiliaRosalia/website/blob/gh-pages/img/logo.1592727d.jpg?raw=true",
+            "desc": "Grabbling Hooks in the Sewer!",
+            "tags":
+            [
+                "Game",
+                "Unity",
+                "Game Design",
+                "GitHub",
+                "Level Design",
+                "Team"
+            ]   
+        },
+        {
+            "id": 7,
+            "url": "MyWebsite",
+            "title": "My Website",
+            "icon": "https://github.com/RemiliaRosalia/website/blob/gh-pages/img/logo.1592727d.jpg?raw=true",
+            "desc": "This site was all me!",
+            "tags":
+            [
+                "HTML",
+                "JavaScript",
+                "CSS",
+                "GitHub",
+                "Programming",
+                "Solo"
+            ]
+        },
+        {
+            "id": 6,
+            "url": "3DModels2024",
+            "title": "3D Models 2024",
+            "icon": "https://github.com/RemiliaRosalia/website/blob/gh-pages/img/logo.1592727d.jpg?raw=true",
+            "desc": "A collection of every 3D model I made in 2024",
+            "tags":
+            [
+                "Blender",
+                "Photoshop",
+                "Texturing",
+                "Solo"
+            ]
+        },
+        {
+            "id": 5,
+            "url": "GiftOfPain",
+            "title": "Gift of Pain",
+            "icon": "https://github.com/RemiliaRosalia/website/blob/gh-pages/img/GiftofPain.png?raw=true",
+            "desc": "This ex-wrestler Santa has had enough!",
+            "tags":
+            [
+                "Game",
+                "Videogame",
+                "Blender",
+                "3D",
+                "Unity",
+                "Programming",
+                "C#",
+                "Animating",
+                "Rigging",
+                "Texturing",
+                "Team"
+            ]
+        },
+        {
+            "id": 4, 
+            "url": "JourneysAndJazzTheFruitsOfTheGods",
+            "title": "Journeys and Jazz: The Fruits of the Gods",
+            "icon": "https://img.itch.zone/aW1nLzEyNTY5MjUzLnBuZw==/315x250%23c/4ev6mR.png",
+            "desc": "The coolest RPG Maker game ever!",
+            "tags":
+            [
+                "Game",
+                "Videogame",
+                "Game Design",
+                "JavaScript",
+                "Programming",
+                "Solo"
+            ]
+        },
+        {
+            "id": 3, 
+            "url": "MashnCloth",
+            "title": "Maya MASH & nCloth Independent Study",
+            "icon": "https://img.itch.zone/aW1nLzEyNTY5MjUzLnBuZw==/315x250%23c/4ev6mR.png",
+            "desc": "A collection of projects",
+            "tags":
+            [
+                "3D",
+                "Maya",
+                "MASH",
+                "nCloth",
+                "Simulation",
+                "Solo"
+            ]
+        },
+
+        {
+            "id": 2, 
+            "url": "NergModel",
+            "title": "Nerg 3D Model",
+            "icon": "https://github.com/RemiliaRosalia/website/blob/gh-pages/img/Nerg.jpg?raw=true",
+            "desc": "Meet this little guy!",
+            "tags":
+            [
+                "3D",
+                "Maya",
+                "Creature",
+                "Organic",
+                "Texturing",
+                "Rigging",
+                "Animating",
+                "Solo"
+            ]
+        },
+        {
+            "id": 1, 
+            "url": "RoyalFlush",
+            "title": "Royal Flush",
+            "icon": "https://github.com/RemiliaRosalia/website/blob/gh-pages/img/RoyalFlush.png?raw=true",
+            "desc": "The Gambling RPG",
+            "tags":
+            [
+                "Game",
+                "Videogame",
+                "Game Design",
+                "Unity",
+                "C#",
+                "Programming",
+                "Team"
+            ]
+        }
+    ]
+}

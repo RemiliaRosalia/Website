@@ -2,6 +2,14 @@ import { createRouter, createWebHistory } from 'vue-router'
 import HomeView from '../views/HomeView.vue'
 import ProjectView from '../views/ProjectView.vue'
 import JNJFotG from '../projects/JNJFotG.vue'
+import GiftOfPain from '../projects/GiftPain.vue'
+import NergModel from '../projects/NergModel.vue'
+import RoyalFlush from '../projects/RoyalFlush.vue'
+import MyWebsite from '../projects/MyWebsite.vue'
+import MashnCloth from '../projects/MayaMashnCloth.vue'
+import AmyView from '@/views/AmyView.vue'
+import NibbleKnight from '@/projects/NibbleKnight.vue'
+import Models2024 from '@/projects/3DModels2024.vue'
 const routes = [
   {
     path: '/',
@@ -34,10 +42,47 @@ const routes = [
     //props: true
   //},
   {
-    path: '/project/JourneysAndJazzTheFruitsOfTheGods',
+    path: '/project/Journeys_and_Jazz_The_Fruits_of_the_Gods',
     name: "JourneysAndJazzTheFruitsOfTheGods",
     component: JNJFotG
-  }
+  },
+  {
+    path: '/project/Gift_of_Pain',
+    name: "GiftOfPain",
+    component: GiftOfPain
+  },
+  {
+    path: '/project/Nerg_Model',
+    name: "NergModel",
+    component: NergModel
+  },
+  {
+    path: '/project/Royal_Flush',
+    name: "RoyalFlush",
+    component: RoyalFlush
+  },
+  {
+    path: '/project/My_Website',
+    name: "MyWebsite",
+    component: MyWebsite
+  },
+  {
+    path: '/project/MASH_nCloth',
+    name: "MashnCloth",
+    component: MashnCloth
+  },
+  {
+    path: '/project/NibbleKnight',
+    name: "NibbleKnight",
+    component: NibbleKnight
+  },
+  {
+    path: '/project/3DModels2024',
+    name: "3DModels2024",
+    component: Models2024
+  },
+
+  
 ]
 
 const router = createRouter({

@@ -10,7 +10,7 @@
   <script>
   export default 
   {
-      props: ['post'],
+    props: ['post'],
       setup(props)
       {
           // const snippet = computed(() => 
@@ -57,7 +57,7 @@
   {
     /* width: 15em;
     height: 12em; */
-    width:95%;
+    width:90%;
     height:80%;
     object-fit: cover;
   }

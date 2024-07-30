@@ -6,9 +6,12 @@
         <img :src="post.icon" >
       </router-link>
       <p>{{ snippet }}</p>
-      <span v-for="tag in post.tags" :key="tag">
+      <div class="tagContainer">
+        <span v-for="tag in post.tags" :key="tag">
         #{{ tag }}
       </span>
+      </div>
+
     </div>
   </template>
   

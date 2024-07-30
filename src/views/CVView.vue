@@ -11,6 +11,14 @@
           <p>● Collaborated with teammates to test our changes together and exchange critiques. </p>
           <p>● Participated in system tests to consumer use in order to explore potential issues in mine and other’s work.</p>
         </div>
+        <div>
+            <h2>TCNJ Tutoring Center | Peer Tutor | 09/2021 - 06/2024</h2>
+            <h4>● Zoom, p5.js, JavaScript, html</h4>
+            <p>● Aided fellow students with their Interactive Multimedia assignments.</p>
+            <p>● Typically focused on debugging JavaScript code.</p>
+            <p>● Work involved reviewing code and guiding the student towards the solution without stating it.</p>
+            <p>● Sessions lasted one hour and could be done once a week.</p>
+        </div>
       </div>
       <div>
         <h1>Personal Experience</h1>
@@ -49,15 +57,15 @@ h1
 }
 h2
 {
-  margin-left: 10%;
+  margin-left: 15%;
 }
 h4
 {
-  margin-left: 5%;
+  margin-left: 10%;
 }
 p
 {
-  margin-left: 5%;
+  margin-left: 10%;
 }
 </style>
   

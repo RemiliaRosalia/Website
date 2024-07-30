@@ -1,4 +1,5 @@
 <template>
+    <h1>{{ activeTag }} Projects</h1>
     <div class="postList">
         <div class="tagArea">
             <div class="active">
@@ -15,10 +16,10 @@
             <button @click="activeTag='Programming'">Programming</button>
             <button @click="activeTag='C#'">C#</button>
             <button @click="activeTag='Videogame'">Videogame</button>
-            <button @click="activeTag='Gamedesign'">Gamedesign</button>
+            <button @click="activeTag='Game Design'">Game Design</button>
             <button @click="activeTag='Rigging'">Rigging</button>
             <button @click="activeTag='Texturing'">Texturing</button>
-            <button @click="activeTag='Animating'">Animating</button>
+            <button @click="activeTag='Animation'">Animation</button>
         </div>
         <div class="posts">
             <div v-for="post in posts" :key="post.id">

@@ -2,8 +2,24 @@
     "posts": 
     [
         {
-            "id": 6,
-            "url": "JourneysAndJazzTheFruitsOfTheGods",
+            "id": 8,
+            "url": "NibbleKnight",
+            "title": "Nibble Knight",
+            "icon": "https://github.com/RemiliaRosalia/website/blob/gh-pages/img/logo.1592727d.jpg?raw=true",
+            "desc": "Grabbling Hooks in the Sewer!",
+            "tags":
+            [
+                "Game",
+                "Unity",
+                "Game Design",
+                "GitHub",
+                "Level Design",
+                "Team"
+            ]   
+        },
+        {
+            "id": 7,
+            "url": "MyWebsite",
             "title": "My Website",
             "icon": "https://github.com/RemiliaRosalia/website/blob/gh-pages/img/logo.1592727d.jpg?raw=true",
             "desc": "This site was all me!",
@@ -17,8 +33,23 @@
             ]
         },
         {
+            "id": 6,
+            "url": "3DModels2024",
+            "title": "3D Models 2024",
+            "icon": "https://github.com/RemiliaRosalia/website/blob/gh-pages/img/logo.1592727d.jpg?raw=true",
+            "desc": "A collection of every 3D model I made in 2024",
+            "tags":
+            [
+                "3D",
+                "Blender",
+                "Photoshop",
+                "Texturing",
+                "Solo"
+            ]
+        },
+        {
             "id": 5,
-            "url": "JourneysAndJazzTheFruitsOfTheGods",
+            "url": "GiftOfPain",
             "title": "Gift of Pain",
             "icon": "https://github.com/RemiliaRosalia/website/blob/gh-pages/img/GiftofPain.png?raw=true",
             "desc": "This ex-wrestler Santa has had enough!",
@@ -31,7 +62,7 @@
                 "Unity",
                 "Programming",
                 "C#",
-                "Animating",
+                "Animation",
                 "Rigging",
                 "Texturing"
             ]
@@ -46,14 +77,14 @@
             [
                 "Game",
                 "Videogame",
-                "Gamedesign",
+                "Game Design",
                 "JavaScript",
                 "Programming"
             ]
         },
         {
             "id": 3, 
-            "url": "JourneysAndJazzTheFruitsOfTheGods",
+            "url": "MashnCloth",
             "title": "Maya MASH & nCloth Independent Study",
             "icon": "https://img.itch.zone/aW1nLzEyNTY5MjUzLnBuZw==/315x250%23c/4ev6mR.png",
             "desc": "A collection of projects",
@@ -69,7 +100,7 @@
 
         {
             "id": 2, 
-            "url": "JourneysAndJazzTheFruitsOfTheGods",
+            "url": "NergModel",
             "title": "Nerg 3D Model",
             "icon": "https://github.com/RemiliaRosalia/website/blob/gh-pages/img/Nerg.jpg?raw=true",
             "desc": "Meet this little guy!",
@@ -81,12 +112,12 @@
                 "Organic",
                 "Texturing",
                 "Rigging",
-                "Animating"
+                "Animation"
             ]
         },
         {
             "id": 1, 
-            "url": "JourneysAndJazzTheFruitsOfTheGods",
+            "url": "RoyalFlush",
             "title": "Royal Flush",
             "icon": "https://github.com/RemiliaRosalia/website/blob/gh-pages/img/RoyalFlush.png?raw=true",
             "desc": "The Gambling RPG",
@@ -94,7 +125,7 @@
             [
                 "Game",
                 "Videogame",
-                "Gamedesign",
+                "Game Design",
                 "Unity",
                 "C#",
                 "Programming"
